@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Miguara FC</title>
+    <style>
+        body {
+            background: black;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+        h1 {
+            color: gold;
+            font-size: 50px;
+        }
+        button {
+            padding: 15px;
+            font-size: 20px;
+            background: gold;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Miguara FC</h1>
+<p>O time que nunca para!</p>
+
+<button onclick="alert('Bem-vindo à Miguara FC!')">
+Entrar no Time
+</button>
+
+</body>
+</html>
